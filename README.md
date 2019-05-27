@@ -1,21 +1,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/okular-d/template-new-project">
+  <a href="https://github.com/okular-d/doozer-project">
     <img src="docs/_static/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">template-new-project</h3>
+  <h3 align="center">new-project-template</h3>
 
   <p align="center">
     A template for starting a new project
     <br />
-    <a href="https://github.com/okular-d/template-new-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/okular-d/doozer-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/okular-d/template-new-project/issues">Report Bug</a>
+    <a href="https://github.com/okular-d/doozer-project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/okular-d/template-new-project/issues">Request Feature</a>
+    <a href="https://github.com/okular-d/doozer-project/issues">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,7 @@ Boilerplate for starting a new project on GitHub.
 
 ### Built With
 
-- [Template](https://github.com/fabiospampinato/template)
+- [Boilr](https://github.com/Ilyes512/boilr)
 
 
 <!-- USAGE EXAMPLES -->
@@ -49,13 +49,13 @@ Boilerplate for starting a new project on GitHub.
 Install the template locally with:
 
 ```shell
-template install okular-d/template-new-project create-project
+boilr template download <okular-d/doozer-project> <new-project>
 ```
 
 Setup a new project with:
 
 ```shell
-template create new-project $MY-PROJECT
+boilr template use new-project ~/Workspace/example-project/
 ```
 
 <!-- CONTRIBUTING -->
@@ -79,5 +79,5 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit) license.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-- [Template](https://github.com/fabiospampinato/template)
+- [Boilr](https://github.com/Ilyes512/boilr)
 - [Best-README-Template](https://github.com/testthedocs/Best-README-Template)
